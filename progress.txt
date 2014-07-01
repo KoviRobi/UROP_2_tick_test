@@ -1,1 +1,1 @@
-This is working progress of a new feature.
+This is a new feature which is now finished.
